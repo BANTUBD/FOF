@@ -1,8 +1,8 @@
 # FOF
 FOF -- FILE ON FIRE 🔥
 
-RUN>✓
+git clone https://github.com/BANTUBD/FOF
 
-gut clone https://github.com/BANTUBD/FOF
 cd FOF
+
 python FOF.py
