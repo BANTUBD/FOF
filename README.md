@@ -1,10 +1,10 @@
-# FOF
-FOF -- FILE ON FIRE 🔥
+# MILAN
+MILAN -- FILE ON FIRE 🔥
 
-git clone https://github.com/milanabdo/FOF
+git clone https://github.com/milanabdo/MILAN
 
 git pull
 
 cd FOF
 
-python FOF.py
+python MILAN.py
