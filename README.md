@@ -1,7 +1,7 @@
 # FOF
 FOF -- FILE ON FIRE 🔥
 
-git clone https://github.com/BANTUBD/FOF
+git clone https://github.com/Milanado/FOF
 
 git pull
 
